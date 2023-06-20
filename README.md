@@ -1,1 +1,3 @@
-# flower-iris-classifictaion
+# flower-iris-classifictaion - Task:1 OasisInfobyte Internship
+
+Iris flower classification is a popular machine learning project that aims to classify iris flowers into three species: Setosa, Versicolor, and Virginica based on their sepals' and petals' length and width measurements. The iris dataset contains fifty instances of each of the three species. The central goal is to design a model that makes proper classifications for new flowers. The project involves training a machine learning model that can learn from the measurements of the iris species and classify them.0 The iris flower classification dataset is famous in the world of machine learning.
